@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "frontend", "angularproject1\frontend.esproj", "{F749C488-31CC-4C1A-A488-2B590B8E460C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backend", "backend\backend.csproj", "{952D5032-1058-47CB-98A9-86D0D0CCC4A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F749C488-31CC-4C1A-A488-2B590B8E460C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F749C488-31CC-4C1A-A488-2B590B8E460C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F749C488-31CC-4C1A-A488-2B590B8E460C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F749C488-31CC-4C1A-A488-2B590B8E460C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F749C488-31CC-4C1A-A488-2B590B8E460C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F749C488-31CC-4C1A-A488-2B590B8E460C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{952D5032-1058-47CB-98A9-86D0D0CCC4A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952D5032-1058-47CB-98A9-86D0D0CCC4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952D5032-1058-47CB-98A9-86D0D0CCC4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952D5032-1058-47CB-98A9-86D0D0CCC4A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8884A235-8258-40AA-B608-474530A3BD9C}
+	EndGlobalSection
+EndGlobal
